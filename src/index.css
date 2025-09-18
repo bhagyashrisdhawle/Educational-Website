@@ -38,3 +38,12 @@ padding-inline: 10%;
   width: 20px;
   margin-left: 10px;
 }
+
+/* as the main btn was white clr we have to change bg for campus btn. the btn which has both btn and dark-btn will have this property
+
+*/
+
+.btn.dark-btn{
+background-color: #212EA0;
+color:#fff;
+}

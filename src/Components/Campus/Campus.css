@@ -1,0 +1,18 @@
+.campus{
+  margin:80px auto;
+width: 90%;
+text-align: center;
+}
+.gallery{
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+
+}
+.gallery img{
+width: 23%;
+/* each img width will take 23% and remaining 6% will be space between imgs*/
+border-radius: 10px;
+}
+
