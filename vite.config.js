@@ -5,8 +5,5 @@ import react from '@vitejs/plugin-react-swc';
 export default defineConfig({
   plugins: [react()],
   base: "/educational-website/",
-<<<<<<< HEAD
+// <<<<<<< HEAD
 });
-=======
-});
->>>>>>> e1bde7c007084462303e76b5f5906d064144192d
